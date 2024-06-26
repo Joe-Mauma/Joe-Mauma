@@ -3,7 +3,7 @@
 
 - What I'm currently doing: 🔭 I'm currently a Computer Science student at OSU, and I'm taking a few classes that involves using GITHUB! 🔭 
 
-- What I'm cucrently learning: One of the classes I'm learning is called "Software Engineering II", which essentially focuses on how coding creation is done in the real-world in group settings. 
+- What I'm currently learning: One of the classes I'm learning is called "Software Engineering II", which essentially focuses on how coding creation is done in the real-world in group settings. 
 
 -  💬 Ask me about: the MCU, I LOVEEEEE the MCU. But also walkability cities, that is another great interest of mine.💬
    
